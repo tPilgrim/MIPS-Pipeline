@@ -1,0 +1,10 @@
+# ninja log v6
+562	1270	7874822930058129	CMakeFiles/PipelineSimulator.dir/cpu.cpp.obj	7fe4dfbebd406128
+554	2641	7874822929952068	CMakeFiles/PipelineSimulator.dir/main.cpp.obj	1beec632c2d054af
+46	224	7874827221749882	PipelineSimulator_autogen/timestamp	cb05a1b7824d8540
+46	224	7874827221749882	PipelineSimulator_autogen/mocs_compilation.cpp	cb05a1b7824d8540
+225	2499	7874827223535201	CMakeFiles/PipelineSimulator.dir/mainwindow.cpp.obj	5261988fbaf43e40
+46	224	7874827221749882	C:/Users/souca/Desktop/PipelineSimulator/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PipelineSimulator_autogen/timestamp	cb05a1b7824d8540
+46	224	7874827221749882	C:/Users/souca/Desktop/PipelineSimulator/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PipelineSimulator_autogen/mocs_compilation.cpp	cb05a1b7824d8540
+551	2833	7874822929952068	CMakeFiles/PipelineSimulator.dir/PipelineSimulator_autogen/mocs_compilation.cpp.obj	bdedfded78401a08
+2500	2697	7874827246277431	PipelineSimulator.exe	4459d63d43d30e05
