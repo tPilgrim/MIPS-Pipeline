@@ -97,11 +97,3 @@ The simulator enables step-by-step execution, visualization of registers and mem
 * Instruction memory (32-bit instructions)
 * Data memory (32-bit values)
 * Program Counter (PC) management
-
-## 👤 Author
-
-Souca Vlad-Cristian
-
-Faculty of Automation and Computer Science
-
-Technical University of Cluj-Napoca
